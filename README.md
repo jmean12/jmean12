@@ -1,5 +1,4 @@
-### Hi there 👋 
-- 🌱 I’m currently learning ...
+### Hi there 👋  , 🌱 I’m currently learning ...
 
 <!--
 **jmean12/jmean12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
