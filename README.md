@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmean12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### ⚡️Social
+### 💫Social
 <a href="https://velog.io/@jmean12" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/jmean12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
 
