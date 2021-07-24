@@ -1,4 +1,4 @@
-### Hi there 👋  , 
+### Hi I'm jaemin  , 
 
 🌱 I’m currently learning ...
 
