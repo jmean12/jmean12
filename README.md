@@ -1,10 +1,10 @@
 
 
-<h1> Hi I'm jaemin </h1>
+<h1> Hi I'm jaemin </h1><h3> for a better tomorrow </h3>
 
 <div align="center">
   
-for a better tomorrow
+
 
 <!--
 **jmean12/jmean12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
