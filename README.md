@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi I'm jaemin  , 
+  <h1> Hi I'm jaemin </h1>
 
 for a better tomorrow
 
