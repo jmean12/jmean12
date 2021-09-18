@@ -1,7 +1,7 @@
 
-  
-<h1 style="background-color:#1c7ed6; width: 100%;"> Hi I'm jaemin </h1>
-
+ <div style=style="background-color:#1c7ed6; width: 100%;">
+<h1> Hi I'm jaemin </h1>
+</div>
 <div align="center">
   
 for a better tomorrow
