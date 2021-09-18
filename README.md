@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
+<img src="https://img.shields.io/badge/-React Router-CA4245?logo=React Router&logoColor=white&style=flat-square"/></a>
 </div>
 
 ### 💫 Social                                                                   
