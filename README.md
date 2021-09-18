@@ -2,7 +2,7 @@
 
 <h1> Hi I'm jaemin </h1>
 
-for a better tomorrow 🧑🏻‍💻🏃✏️
+for a better tomorrow 🧑🏻‍💻
 
 <div align="center">
   
