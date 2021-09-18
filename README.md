@@ -1,6 +1,6 @@
 
 
-<h1> Hi I'm jaemin </h1><h3> for a better tomorrow </h3>
+<h1> Hi I'm jaemin         <h3> for a better tomorrow </h3></h1>
 
 <div align="center">
   
