@@ -1,7 +1,8 @@
 <div align="center">
+  
 ### Hi I'm jaemin  , 
 
-🌱 I’m currently learning ...
+for a better tomorrow
 
 <!--
 **jmean12/jmean12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
