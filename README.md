@@ -1,6 +1,8 @@
 
 
-<h1> Hi I'm jaemin         <h3> for a better tomorrow </h3></h1>
+<h1> Hi I'm jaemin </h1>
+
+for a better tomorrow 🧑🏻‍💻🏃✏️
 
 <div align="center">
   
