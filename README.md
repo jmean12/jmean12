@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi I'm jaemin  , 
 
 🌱 I’m currently learning ...
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmean12)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ---
 <div align="center">
