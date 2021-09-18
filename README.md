@@ -1,6 +1,6 @@
 
 
-<h1> Hi I'm jaemin </h1>
+<h1> JaeMin </h1>
 
 for a better tomorrow 🧑🏻‍💻
 
