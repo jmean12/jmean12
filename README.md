@@ -3,7 +3,6 @@
 <h2> Hi 🙋 I'm JaeMin </h2>
 
 <div align="left">
-  
 <br/>  
 
 ### ✨ Skills
@@ -20,7 +19,9 @@
 <img src="https://img.shields.io/badge/-React Router-CA4245?logo=React Router&logoColor=white&style=flat-square"/></a>
 </div>
 
+
 ### 💫 Social                                                                   
+
 <a href="https://velog.io/@jmean12" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/jmean12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
 </div>
