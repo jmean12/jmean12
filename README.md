@@ -1,6 +1,6 @@
 
 
-<h2> Hi 🙋 I'm JaeMin </h2>
+<h2> Hi 🙋  I'm JaeMin </h2>
 
 <div align="left">
 <br/>  
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/-React Router-CA4245?logo=React Router&logoColor=white&style=flat-square"/></a>
 </div>
-
+<br/>
 
 ### Social                                                                   
 
