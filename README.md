@@ -1,8 +1,8 @@
 
 
-<h1> Hi 🙋 I'm JaeMin , 
- I'm Junior Front-end engineer
-</h1>
+<h2> Hi 🙋 I'm JaeMin </h2>
+---
+<h2> I'm Junior Front-end engineer </h2>
 
 ---
 <div align="center">
