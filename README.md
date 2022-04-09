@@ -3,8 +3,6 @@
 <h1> Hi 🙋 I'm JaeMin </h1>
 <h1> I'm Junior Front-end engineer </h1>
 
-for a better tomorrow 🧑🏻‍💻
-
 ---
 <div align="center">
 
