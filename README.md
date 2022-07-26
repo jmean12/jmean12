@@ -17,10 +17,11 @@
 </div>
 <br/>
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/-ReduxToolkit-764ABC?logo=ReduxToolkit&logoColor=white&style=flat-square"/></a>
+<img src="https://img.shields.io/badge/-ReduxToolkit-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white"/></a>
 <br/>
-
+<br/>
 <img src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white&style=flat-square"/></a>
 
 ## Social                                                                   
