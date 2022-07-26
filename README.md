@@ -16,6 +16,7 @@
 <br/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
+<img src="https://img.shields.io/badge/-Redux-#000000?logo=Redux&logoColor=white&style=flat-square"/></a>
 
 ## Social                                                                   
 
