@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/emotion-FF81F9?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <br/>
-<br/>#F24E1E
+<br/>
 <img src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square"/></a>
 
