@@ -16,6 +16,7 @@
 
 </div>
 <br/>
+<img src="https://camo.githubusercontent.com/62091a269bbd0dad454e29760b1f38d8aaf60692476c3e8b82918e486ceab11a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73267065726c696e653d31" /></a>
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/-ReduxToolkit-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
