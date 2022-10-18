@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=Vue.js&logoColor=white&style=flat-square"/></a>
 </div>
 
-<img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
+<img src="https://img.shields.io/icon/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/-ReduxToolkit-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/emotion-FF81F9?style=flat-square&logo=styled-components&logoColor=white"/></a>
