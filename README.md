@@ -1,5 +1,5 @@
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=ts" />
