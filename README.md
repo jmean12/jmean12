@@ -6,7 +6,7 @@
 <img src="https://camo.githubusercontent.com/a38363ac85a86ad321026107282cf31844aba07c11eb6b0b117d76518dcc6a28/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374267065726c696e653d31" /></a><br/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,recoil,figma,git,aws,styledcomponents,vercel&perline=3"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,recoil,styledcomponents"/>
 
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=Vue.js&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
