@@ -9,9 +9,11 @@
 
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=redux" />
 <img src="https://skillicons.dev/icons?i=vue" />
+
+<img src="https://skillicons.dev/icons?i=redux" />
 <img src="https://skillicons.dev/icons?i=styledcomponents" />
 <img src="https://skillicons.dev/icons?i=emotion" />
 <img src="https://skillicons.dev/icons?i=tailwindcss" />
