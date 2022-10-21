@@ -3,7 +3,6 @@
 
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=ts" />
-<br />
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=vue" />
