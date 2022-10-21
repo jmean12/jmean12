@@ -12,8 +12,8 @@
     <img src="https://skillicons.dev/icons?i=emotion" />
     <img src="https://skillicons.dev/icons?i=tailwindcss" />
   </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=tailwindcss" />
+  <div align="right">
+    123
   </div>
 </div>
 
