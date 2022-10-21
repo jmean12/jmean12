@@ -6,24 +6,15 @@
 <img src="https://camo.githubusercontent.com/a38363ac85a86ad321026107282cf31844aba07c11eb6b0b117d76518dcc6a28/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374267065726c696e653d31" /></a><br/>
 <br/>
 
+
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=redux" />
 <img src="https://skillicons.dev/icons?i=vue" />
 <img src="https://skillicons.dev/icons?i=styledcomponents" />
 <img src="https://skillicons.dev/icons?i=emotion" />
 <img src="https://skillicons.dev/icons?i=tailwindcss" />
-
-<img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=Vue.js&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/-ReduxToolkit-764ABC?logo=Redux&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/emotion-FF81F9?style=flat-square&logo=styled-components&logoColor=white"/></a>
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white&style=flat-square"/></a>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square"/></a>                                                               
-
-<a href="https://velog.io/@jmean12" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://github.com/jmean12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
 </div>
 
 
