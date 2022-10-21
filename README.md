@@ -8,7 +8,7 @@
 
 <img src="https://skillicons.dev/icons?i=redux" />
 <img src="https://skillicons.dev/icons?i=vue" />
-<img src="https://skillicons.dev/icons?i=styled-components" />
+<img src="https://skillicons.dev/icons?i=styled-component" />
 <img src="https://skillicons.dev/icons?i=emotion" />
 <img src="https://skillicons.dev/icons?i=react-query" />
 
