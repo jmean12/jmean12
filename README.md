@@ -1,7 +1,6 @@
-<div layout="flex">
-  <div align="left">
-  ## Hi🙃
+  ## Hi, I'm Jaemin 🫠
   
+  <div align="left">
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <br />
@@ -14,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=emotion" />
     <img src="https://skillicons.dev/icons?i=tailwindcss" />
   </div>
-</div>
+
 
 
 <div align="left">
