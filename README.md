@@ -1,6 +1,4 @@
-  ## Hi, I'm Jaemin 🫠
-  
-  <div align="left">
+    <div align="left">
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <br />
