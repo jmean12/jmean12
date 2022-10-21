@@ -9,7 +9,6 @@
 <img src="https://skillicons.dev/icons?i=vue" />
 <br />
 <img src="https://skillicons.dev/icons?i=redux" />
-<img src="https://skillicons.dev/icons?i=recoil" />
 <img src="https://skillicons.dev/icons?i=styledcomponents" />
 <img src="https://skillicons.dev/icons?i=emotion" />
 <img src="https://skillicons.dev/icons?i=tailwindcss" />
