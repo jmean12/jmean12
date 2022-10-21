@@ -1,4 +1,4 @@
-<div display="flex">
+<div layout="flex">
   <div align="left">
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
@@ -11,9 +11,6 @@
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
     <img src="https://skillicons.dev/icons?i=emotion" />
     <img src="https://skillicons.dev/icons?i=tailwindcss" />
-  </div>
-  <div align="right">
-    123
   </div>
 </div>
 
