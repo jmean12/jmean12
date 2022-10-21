@@ -10,7 +10,6 @@
 <img src="https://skillicons.dev/icons?i=vue" />
 <img src="https://skillicons.dev/icons?i=styledcomponents" />
 <img src="https://skillicons.dev/icons?i=emotion" />
-<img src="https://skillicons.dev/icons?i=reactquery" />
 <img src="https://skillicons.dev/icons?i=tailwindcss" />
 
 <img src="https://img.shields.io/badge/-VueJs-4FC08D?logo=Vue.js&logoColor=white&style=flat-square"/></a>
